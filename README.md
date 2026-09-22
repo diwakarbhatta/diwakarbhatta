@@ -1,21 +1,63 @@
-# 👋 Hi, I'm Diwakar Bhatta
+# 
 
-### 🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer
+---
+<!--
+  Replace GITHUB_USERNAME everywhere below with your actual GitHub username.
+  Put this file in a repo named exactly your username (e.g. github.com/GITHUB_USERNAME/GITHUB_USERNAME)
+  and it becomes your profile page.
+-->
 
-Welcome to my GitHub! 🚀
-I'm currently learning, experimenting, and building projects while developing my skills in Computer Science.
+<div align="center">
+
+# Hi, I'm Diwakar Bhatta 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=BTech+CSE+Student;Aspiring+Software+Engineer;Quick+Learner+%7C+Builder)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diwakarbhatta4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GITHUB_USERNAME)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🎓 About Me
 
-* 🎓 B.Tech Computer Science & Engineering
-* 🌱 Currently learning **Java & C++**
-* 💻 Interested in **Software Development & Data**
-* 📚 Using GitHub to organize my **notes, code, projects & learning**
-* 🚀 Goal: Become a skilled software engineer
+- 🖥️ 1st-year BTech CSE student at **COER University**, Roorkee
+- 📚 Currently working through **DSA, OOP, DBMS, Operating Systems, and Computer Networks**
+- 🌱 Learning **Java** in IntelliJ IDEA, and exploring **Linux** systems and internals
+- 🎯 Goal: become a strong software engineer with solid programming and problem-solving skills
+- ⚡ Hands-on learner — I like building things from scratch to understand them
 
 ---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+
+📫 Reach me at **diwakarbhatta4@gmail.com**
+
+
 
 ## 🛠️ Skills & Technologies
 
