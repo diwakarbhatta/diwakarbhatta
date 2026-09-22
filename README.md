@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=BTech+CSE+Student;Aspiring+Software+Engineer;Quick+Learner+%7C+Builder)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diwakarbhatta4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diwakarbhatta)
 
 </div>
 
@@ -44,10 +44,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=diwakarbhatta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarbhatta&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=diwakarbhatta&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
