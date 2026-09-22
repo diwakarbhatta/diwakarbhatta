@@ -10,7 +10,7 @@ I'm currently learning, experimenting, and building projects while developing my
 ## 🧑‍💻 About Me
 
 * 🎓 B.Tech Computer Science & Engineering
-* 🌱 Currently learning **Java & Python**
+* 🌱 Currently learning **Java & C++**
 * 💻 Interested in **Software Development & Data**
 * 📚 Using GitHub to organize my **notes, code, projects & learning**
 * 🚀 Goal: Become a skilled software engineer
@@ -22,7 +22,7 @@ I'm currently learning, experimenting, and building projects while developing my
 **Languages**
 
 * ☕ Java
-* 🐍 Python
+* 💻 c++
 * 🌐 HTML
 * 🎨 CSS
 * ⚡ JavaScript
