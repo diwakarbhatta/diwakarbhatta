@@ -11,10 +11,11 @@
 
 # Hi, I'm Diwakar Bhatta 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=BTech+CSE+Student;Aspiring+Software+Engineer;Quick+Learner+%7C+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=BTech+CSE+Student;Aspiring+Software+Engineer;Quick+Learner+Developer)]
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diwakarbhatta4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diwakarbhatta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakar-bhatta-3397b2423)
 
 </div>
 
@@ -34,7 +35,7 @@
 
 <div align="center">
 
-![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux)
+![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![MySQL](https://skillicons.dev/icons?i=mysql) ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 </div>
 
