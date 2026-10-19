@@ -1,12 +1,3 @@
-# 
-
----
-<!--
-  Replace GITHUB_USERNAME everywhere below with your actual GitHub username.
-  Put this file in a repo named exactly your username (e.g. github.com/GITHUB_USERNAME/GITHUB_USERNAME)
-  and it becomes your profile page.
--->
-
 <div align="center">
 
 # Hi, I'm Diwakar Bhatta 👋
@@ -31,13 +22,24 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Technologies
 
-<div align="center">
+**Languages**
 
-![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -45,41 +47,19 @@
 
 <div align="center">
 
+<!-- If the cards stay blank, self-host github-readme-stats on your own Vercel and swap the domain below -->
 <img src="https://github-readme-stats.vercel.app/api?username=diwakarbhatta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarbhatta&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=diwakarbhatta&theme=tokyonight&hide_border=true" width="60%" />
 
+![Followers](https://img.shields.io/github/followers/diwakarbhatta?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1a1b26)
+
 </div>
 
 ---
 
-<div align="center">
-
-📫 Reach me at **diwakarbhatta4@gmail.com**
-
-
-
-## 🛠️ Skills & Technologies
-
-**Languages**
-
-* ☕ Java
-* 💻 c++
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
-
-**Tools**
-
-* Git & GitHub
-* VS Code
-* IntelliJ IDEA
-* Linux
-
----
-
-## 📂 My GitHub
+### 📂 My GitHub
 
 | 📁 Section     | What's inside                   |
 | -------------- | ------------------------------- |
@@ -91,18 +71,15 @@
 
 ---
 
-## 🚀 Current Project
+### 🚀 Current Project
 
-### 💬 Real-Time Chat Application
+**💬 Real-Time Chat Application** — built while learning full-stack development.
 
-A real-time chat application built while learning full-stack development.
-
-**Tech Stack:**
 `HTML` `CSS` `JavaScript` `Node.js` `Socket.io` `Database` `JWT` `bcrypt`
 
 ---
 
-## 📈 My Learning Journey
+### 📈 My Learning Journey
 
 ```text
 CSE Fundamentals
@@ -120,33 +97,23 @@ Software Engineering
 
 ---
 
-## 🎯 2026 Goals
+### 🎯 2026 Goals
 
-* [ ] Improve Java & Python
-* [ ] Learn DSA
-* [ ] Build more projects
-* [ ] Improve Git & GitHub skills
-* [ ] Contribute to open source
-* [ ] Build a strong developer portfolio
+- [ ] Improve Java & Python
+- [ ] Learn DSA
+- [ ] Build more projects
+- [ ] Improve Git & GitHub skills
+- [ ] Contribute to open source
+- [ ] Build a strong developer portfolio
 
 ---
+
+<div align="center">
 
 ### 💡 "Learn. Build. Improve. Repeat."
 
 ⭐ Thanks for visiting my profile!
 
+📫 Reach me at **diwakarbhatta4@gmail.com**
 
-<!--
-**diwakarbhatta/diwakarbhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
